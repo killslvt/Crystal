@@ -116,8 +116,14 @@ namespace Crystal
             Process[] processes = Process.GetProcessesByName("RobloxPlayerBeta");
             foreach (Process process in processes)
             {
-                process.Kill();
-                MessageBox.Show("Successfuly killed RobloxPlayerBeta");
+                try
+                {
+                    process.Kill();
+                }
+                catch (Exception Ex)
+                {
+                    MessageBox.Show($"{Ex}");
+                }
             }
         }
     }

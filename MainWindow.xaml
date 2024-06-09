@@ -53,5 +53,19 @@
                 </Style>
             </Button.Resources>
         </Button>
+        <Rectangle HorizontalAlignment="Left" Height="356" Margin="106,62,0,0" Stroke="Black" VerticalAlignment="Top" Width="202" Fill="#FF0F0F0F"/>
+        <Label Content="Updates" HorizontalAlignment="Left" Margin="153,62,0,0" VerticalAlignment="Top" Width="104" Foreground="#FF9A9A9A" Height="48" FontSize="25"/>
+        <Label Content="+ Top Most Toggle (On/Off)" HorizontalAlignment="Left" Margin="127,116,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="+ Fixed Closing Issue" HorizontalAlignment="Left" Margin="127,147,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="+ Fixed Kill Roblox" HorizontalAlignment="Left" Margin="127,178,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="- Removed FPS Unlock" HorizontalAlignment="Left" Margin="127,209,0,0" VerticalAlignment="Top" Foreground="Red"/>
+        <Label Content="- Removed Small Bugs" HorizontalAlignment="Left" Margin="127,240,0,0" VerticalAlignment="Top" Foreground="Red"/>
+
+        <Rectangle Height="356" Margin="492,62,106,0" Stroke="Black" VerticalAlignment="Top" Fill="#FF0F0F0F"/>
+        <Label Content="Credits" HorizontalAlignment="Left" Margin="548,62,0,0" VerticalAlignment="Top" Width="90" Foreground="#FF9A9A9A" Height="48" FontSize="25"/>
+        <Label Content="RIP - Main Creator" HorizontalAlignment="Left" Margin="539,118,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="00KSpy - Main Creator" HorizontalAlignment="Left" Margin="528,149,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Zelda - Helped With Code" HorizontalAlignment="Left" Margin="519,180,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="KA$H - Optimizing Code" HorizontalAlignment="Left" Margin="523,0,0,0" VerticalAlignment="Center" Foreground="White"/>
     </Grid>
 </Window>
