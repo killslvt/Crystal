@@ -8,6 +8,6 @@ I've taken the initiative to enhance the codebase, fixing various issues and ens
 No there is no working inject/execute in this code I removed it
 
 # Contact Me
-[slvt headquarters](https://discord.gg/d6fRewZEPb)
+[KillZone](https://discord.gg/ESzxG5S4Y2)
 
 Discord: killslvt
