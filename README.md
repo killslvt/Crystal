@@ -8,6 +8,6 @@ I've taken the initiative to enhance the codebase, fixing various issues and ens
 No there is no working inject/execute in this code I removed it
 
 # Contact Me
-[KillZone](https://discord.gg/ESzxG5S4Y2)
+[Chromatic](https://discord.gg/ESzxG5S4Y2) -- Celery API Can Be Found Here
 
 Discord: killslvt
